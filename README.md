@@ -17,7 +17,7 @@ A aplicação foi desenvolvida com foco em **agilidade no atendimento e controle
 ## 🖼️ Preview do Aplicativo
 
 <p align="center">
-  <img src="./assets/bila-app.png" width="800">
+  <img src="./assets/bila-app.jpeg" width="800">
 </p>
 
 ## ⚙️ Funcionalidades
