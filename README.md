@@ -48,7 +48,7 @@ stockflow-app
 ├── assets/        # Imagens e recursos do aplicativo
 ├── components/    # Componentes reutilizáveis
 ├── screens/       # Telas do aplicativo
-├── services/      # Comunicação com API
+├── api/      # Comunicação com API
 └── App.js         # Arquivo principal
 ```
 
