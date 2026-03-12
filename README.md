@@ -16,13 +16,9 @@ A aplicação foi desenvolvida com foco em **agilidade no atendimento e controle
 
 ## 🖼️ Preview do Aplicativo
 
-Adicione abaixo uma imagem ou captura de tela do aplicativo:
-
-![Preview do aplicativo](./assets/app-preview.png)
-
-*(Substitua `app-preview.png` pelo nome da sua imagem.)*
-
----
+<p align="center">
+  <img src="./assets/bila-app.png" width="800">
+</p>
 
 ## ⚙️ Funcionalidades
 
