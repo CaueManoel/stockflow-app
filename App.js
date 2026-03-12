@@ -14,9 +14,11 @@ export default function App() {
     <NavigationContainer>
       <ErrorProvider>
         <Stack.Navigator
-          initialRouteName="Produtos"
+          initialRouteName="Splash"
           screenOptions={{ headerShown: false }}
         >
+          <Stack.Screen name="Splash" component={SplashScreen} />
+          <Stack.Screen name="Pedidos" component={PedidoScreen} />
           <Stack.Screen name="Produtos" component={ProdutoScreen} />
         </Stack.Navigator>
         <ErrorModal />
